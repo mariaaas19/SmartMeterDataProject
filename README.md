@@ -4,7 +4,7 @@
 <p> This project aimed to use clustering to identify patterns in smart meter readings. The <b> K Means Algorithm </b> was used both with and without</br>
     <b> PCA </b> dimensionality reduction in order to judge the value of using it. </br></p>
     
-<p> The characteristics investigated were: <i> Yearly income, employment status, number of residents,  education and social class of the chief income earner.
+<p> The characteristics investigated were: <i> yearly income, employment status, number of residents,  education and social class of the chief income earner.
 
 <p> By identifying relationships between the characteristics of a household and their energy consumption, suppliers can... </br>
     </br> 
